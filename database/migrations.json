@@ -1,0 +1,12 @@
+{
+  "prerun": "# some code here",
+  "directory": "migrations",
+  "history": "migratehistory",
+  "models": [
+    "models.User",
+    "models.Language",
+    "models.Conversation",
+    "models.Messages",
+    "models.MessageMediaFiles"
+  ]
+}
